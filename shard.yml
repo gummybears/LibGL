@@ -5,6 +5,6 @@ authors:
   - Caleb Uriah Harrison <calebuharrison@gmail.com>
   - Joel Lonbeck <joel@neutrinographics.com>
 
-crystal: 0.23.1
+crystal: 1.0.0
 
 license: MIT
